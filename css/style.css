@@ -47,12 +47,7 @@ section#team{
 	height:50%;*/
 }
 
-section#team{
-	background-image: url("../img/cartier.gif");
-	background-size: cover;
-	background-repeat: no-repeat;
-	height:50%;
-}
+
 
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #909;
