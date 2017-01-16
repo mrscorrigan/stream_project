@@ -552,8 +552,8 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #2;
-  background-image: url('../img/map-image.png');
+  background-color: #222;
+  background-image: none;
   background-position: center;
   background-repeat: no-repeat;
 }
