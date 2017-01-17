@@ -22,6 +22,8 @@ Design
 
 Colors to represent beauty, fashion and to be visually appealing.
 
+live repo: https://mrscorrigan.github.io/project_stream
+
 
 Active gifs reference
 cinemagraphs.com
